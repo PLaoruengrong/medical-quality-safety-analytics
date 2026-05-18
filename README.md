@@ -21,13 +21,13 @@ This folder contains two comprehensive, fully anonymized structural reviews of c
 * **Context:** A high-risk patient experiencing post-delivery hemorrhagic decompensatory shock.
 * **Methodology:** Analysis of measurement errors (visual estimation vs. quantitative tracking) and fluid delivery speeds.
 * **Outcome:** Recommended shifting from visual estimation to hardware-based collection metrics (e.g., metric drapes) and mandating dual-sited, large-bore IV access triggered by high-risk patient admission parameters.
-* **[View Case Analysis](./01_Root_Cause_Analysis/RCA_01.md)**
+* **[View Case Analysis](./root-cause-analysis-RCA/RCA_01.md)**
 
 ### Case Study 2: Workflow Bottleneck Identification in Emergency Diagnostics
 * **Context:** An acute abdominal emergency presenting with hypovolemic shock.
 * **Methodology:** Chronological cycle-time tracking from patient admission to central laboratory verification and operating room (OR) deployment.
 * **Outcome:** Identified critical data transit and processing latencies. Proposed localized "point-of-care" testing units to bypass centralized queuing bottlenecks and established multi-tier automated communication protocols triggered by physiological alert thresholds.
-* **[View Case Analysis](./01_Root_Cause_Analysis/RCA_02.md)**
+* **[View Case Analysis](./root-cause-analysis-RCA/RCA_02.md)**
 
 ---
 
