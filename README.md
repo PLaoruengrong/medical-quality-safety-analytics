@@ -1,8 +1,6 @@
 # Clinical Systems Safety & Operational Data Analytics
 
-Welcome to my clinical systems engineering and data portfolio. This repository serves as a practical demonstration of applying quantitative data analysis, systematic risk assessment, and continuous workflow optimization within high-stakes, safety-critical medical environments. 
-
-As a former Board-Certified Resident Physician transitioning into Medical Robotics and Automation, my objective is to bridge the gap between clinical domain expertise and robust systems engineering.
+This repository contains clinical systems safety and operational analytics projects focused on workflow optimization, root-cause analysis, and quality improvement in hospital environments.
 
 ---
 
@@ -15,7 +13,7 @@ As a former Board-Certified Resident Physician transitioning into Medical Roboti
 
 ## 🔍 Section 1: Systems Safety & Root-Cause Analysis (RCA)
 
-This folder contains two comprehensive, fully anonymized structural reviews of critical workflow anomalies. The focus is placed entirely on systemic and latent organizational failures rather than individual human error, serving as a clinical equivalent to **Fault-Tree Analysis (FTA)**.
+This folder contains two comprehensive, fully anonymized structural reviews of critical workflow anomalies.
 
 ### Case Study 1: Systemic Latency in Hemorrhagic Shock Diagnosis
 * **Context:** A high-risk patient experiencing post-delivery hemorrhagic decompensatory shock.
@@ -26,7 +24,7 @@ This folder contains two comprehensive, fully anonymized structural reviews of c
 ### Case Study 2: Workflow Bottleneck Identification in Emergency Diagnostics
 * **Context:** An acute abdominal emergency presenting with hypovolemic shock.
 * **Methodology:** Chronological cycle-time tracking from patient admission to central laboratory verification and operating room (OR) deployment.
-* **Outcome:** Identified critical data transit and processing latencies. Proposed localized "point-of-care" testing units to bypass centralized queuing bottlenecks and established multi-tier automated communication protocols triggered by physiological alert thresholds.
+* **Outcome:** Identified critical data transit and processing latencies. Identified laboratory processing delays and proposed point-of-care testing to reduce diagnostic turnaround time.
 * **[View Case Analysis](./root-cause-analysis-RCA/RCA_02.md)**
 
 ---
